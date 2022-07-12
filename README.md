@@ -32,6 +32,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [深圳随笔](https://yurzhang.com/index.php/archives/27/)
+- [新的开始](https://yurzhang.com/index.php/archives/5/)
+- [Luogu P5903【模板】树上 k 级祖先](https://yurzhang.com/index.php/archives/21/)
+- [Luogu P6620 [省选联考 2020 A 卷] 组合数问题](https://yurzhang.com/index.php/archives/19/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
