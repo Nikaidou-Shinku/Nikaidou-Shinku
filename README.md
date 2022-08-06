@@ -20,7 +20,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [ninc](https://github.com/Nikaidou-Shinku/ninc)
+- 🔭 I’m currently working on [ninc](https://github.com/Nikaidou-Shinku/ninc), [lg2tg](https://github.com/Nikaidou-Shinku/lg2tg)
 
 - 🌱 I’m currently learning **Rust, Compilers(CS143)**
 
