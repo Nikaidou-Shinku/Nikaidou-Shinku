@@ -20,13 +20,13 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [sjw](https://github.com/Nikaidou-Shinku/sjw), [ninc](https://github.com/Nikaidou-Shinku/ninc)
+- 🔭 I’m currently working on [kurogu](https://github.com/Nikaidou-Shinku/kurogu)(WIP), [syq](https://github.com/Nikaidou-Shinku/syq)
 
-- 🌱 I’m currently learning **Rust, Compilers(CS143)**
+- 🌱 I’m currently learning **Rust**
 
 - 📝 I regularly write articles on [https://yurzhang.com](https://yurzhang.com)
 
-- 📫 How to reach me **yurzhang@163.com**
+- 📫 How to reach me **yurzhang@163.com**, or [Telegram](https://t.me/yurzhang) | [Matrix](https://matrix.to/#/@yurzhang:matrix.org)
 
 - ⚡ Fun fact **I’d be happy to recommend [my favorite anime/game](https://bangumi.tv/user/yurzhang) for you**
 
