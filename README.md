@@ -26,7 +26,7 @@
 
 - 📝 I regularly write articles on [https://yurzhang.com](https://yurzhang.com)
 
-- 📫 How to reach me **yurzhang@163.com**, or [Telegram](https://t.me/yurzhang) | [Matrix](https://matrix.to/#/@yurzhang:matrix.org)
+- 📫 How to reach me **yurzhang@163.com**, or [Telegram](https://t.me/yurzhang) | [Matrix](https://matrix.to/#/@yurzhang:chat.yurzhang.com)
 
 - ⚡ Fun fact **I’d be happy to recommend [my favorite anime/game](https://bangumi.tv/user/yurzhang) for you**
 
