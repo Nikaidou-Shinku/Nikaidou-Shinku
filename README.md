@@ -32,10 +32,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [【算法竞赛】Awesome sanitizers](https://yurzhang.com/index.php/archives/42/)
 - [Arch Linux 下畅玩 Galgame 的虚拟机方案踩坑记录](https://yurzhang.com/index.php/archives/38/)
 - [深圳随笔](https://yurzhang.com/index.php/archives/27/)
 - [新的开始](https://yurzhang.com/index.php/archives/5/)
-- [Luogu P5903【模板】树上 k 级祖先](https://yurzhang.com/index.php/archives/21/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
